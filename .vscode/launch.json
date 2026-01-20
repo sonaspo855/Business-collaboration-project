@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-WorkplanApplication<workplan>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.workplan.workplan.WorkplanApplication",
+            "projectName": "workplan",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
