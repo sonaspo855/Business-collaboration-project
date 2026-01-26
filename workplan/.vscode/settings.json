@@ -1,0 +1,7 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "java.import.gradle.java.home": "C:\\jdk\\jdk-17",
+    "java.jdt.ls.java.home": "C:\\jdk\\jdk-17",
+    "java.debug.settings.onBuildFailureProceed": true,
+}
